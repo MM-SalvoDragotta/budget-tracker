@@ -29,7 +29,7 @@
 
 Functionality have been added to an existing Budget Tracker application to allow for offline access and functionality. The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they populate the total when brought back online.
 
-The App uses a [Mongo database](https://www.mongodb.com/) with a [Mongoose schema](https://mongoosejs.com/) and handle routes with [Express](https://expressjs.com/). This application uses IndexDB, Service workers, and Web Manifest for offline functionality and has been deployed to [Heroku](https://www.heroku.com/) using [MongoDB Atlas](https://www.mongodb.com/cloud/atlas). This App is also a Progressive Web Application (PWA) that uses modern web capabilities to deliver an app-like experience to users.
+The App uses a [Mongo database](https://www.mongodb.com/) with a [Mongoose schema](https://mongoosejs.com/) and handle routes with [Express](https://expressjs.com/). This application uses IndexDB, Service workers, and Web Manifest for offline functionality and has been deployed to [Heroku](https://www.heroku.com/) using [MongoDB Atlas](https://www.mongodb.com/cloud/atlas). This App is also a [Progressive Web Application (PWA)](https://www.youtube.com/watch?v=sFsRylCQblw) that uses modern web capabilities to deliver an app-like experience to users.
 
 The following animation shows the web application's appearance and functionality:
 
