@@ -9,13 +9,13 @@
     "description": "Add expenses and make deposits while giving the user a money balance.",
     "icons": [
       {
-        "src": "assets/icons/icon-192x192.png",
-        "sizes": "192x192",
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x169",
         "type": "image/png"
       },
       {
-        "src": "assets/icons/icon-512x512.png",
-        "sizes": "512x512",
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x452",
         "type": "image/png"
       }
     ] 
